@@ -17,9 +17,9 @@ Projeto é um micro serviço (backend) de um serviço de notificações. Feito n
 
 -   [ x ] Typescript
 -   [ x ] NestJs
--   [ x ] Vite
--   [ x ] TailwindCSS
 -   [ x ] Kafka
+-   [ x ] Prisma
+
 
 ## :hammer_and_wrench: Features 
 
