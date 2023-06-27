@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Ignite-Lab-Node.Js" height="80" title="Ignite-Lab-Node.Js" src="./public/image.svg" />
+  <img alt="Ignite-Lab-Node.Js" height="80" title="Ignite-Lab-Node.Js" src="./public/Notification_Service.png" />
 </h1>
 
 <p align="center">
